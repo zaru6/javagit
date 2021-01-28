@@ -3,7 +3,7 @@ package javagit;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("renndom");
+		System.out.println("rennnndom");
 	}
 
 }
